@@ -82,7 +82,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!1 &5478440041173219093
 GameObject:
@@ -166,7 +166,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!1 &5947872420524316841
 GameObject:
@@ -220,6 +220,7 @@ MonoBehaviour:
   leaf_1: {fileID: 6887281452962756187}
   leaf_2: {fileID: 550445578601698202}
   fallingLeaf: {fileID: 0}
+  PubVector: 29
   time: 0
 --- !u!1 &6887281452962756187
 GameObject:
@@ -303,7 +304,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!1 &7593560804103740115
 GameObject:
@@ -388,7 +389,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 1
   m_SpriteSortPoint: 0
 --- !u!70 &6594636034532297226
 CapsuleCollider2D:
